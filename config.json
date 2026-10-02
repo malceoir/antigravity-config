@@ -1,0 +1,82 @@
+{
+  "plugins": {
+    "android-cli-plugin": {
+      "enabled": true
+    },
+    "chrome-devtools-plugin": {
+      "enabled": true
+    },
+    "firebase": {
+      "enabled": true
+    },
+    "googlecloudtools.datacloud_telemetry": {
+      "enabled": true
+    },
+    "modern-web-guidance-plugin": {
+      "enabled": true
+    }
+  },
+  "userSettings": {
+    "globalPermissionGrants": {
+      "allow": [
+        "write_file(C:\\Users\\tyler lauzon\\.gemini\\config\\plugins\\firebase\\skills\\firebase_ai_logic_basics\\placeholder.txt)",
+        "command(Get-ChildItem)",
+        "command(Get-Content)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\README.md)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\" -Filter *.ts,*.tsx -Recurse -ErrorAction SilentlyContinue)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\" -Recurse | Where-Object { $_.Extension -in '.ts', '.tsx' } | Select-Object FullName, Length)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\" -Filter \"PriceCheckSearch.tsx\" -Recurse -ErrorAction SilentlyContinue | Select-Object FullName)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\" -Recurse -ErrorAction SilentlyContinue | Select-Object FullName | Out-String -Width 300)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\package.json)",
+        "command(git status)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\components\")",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\components\" -Recurse | Select-Object FullName, Length | Out-String -Width 300)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\tests\\5_pillars_simulation.ts)",
+        "command(npx tsc --noEmit)",
+        "command(npx tsx tests/5_pillars_simulation.ts)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\" -Recurse | Select-String -Pattern \"ZPL\" -List | Select-Object Path, LineNumber, Line)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\" -Recurse | Select-String -Pattern \"print\" -List | Select-Object Path, LineNumber, Line | Format-List)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\tests\\verify_label_printing.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\posQueueService.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\store\\useTradeStore.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\firebaseService.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\offlineStorageService.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\offlineDbService.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\pricechartingCsvService.ts)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\hooks\")",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\scratch\\archivist_learn.ts)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\" -Recurse | Where-Object { $_.Extension -in '.png', '.jpg', '.jpeg' } | Select-Object FullName)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\tests\\verify_agent_typing_pipeline.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\tests\\skuMatching.test.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\gemini\\index.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\gemini\\vision.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\scratch\\scan_toys_controlgroup.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\gemini\\prompts.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\.env)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\scratch\\anarchist_ball.ts)",
+        "command(npx tsx scratch/anarchist_ball.ts)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\" -Recurse | Select-String -Pattern \"new RegExp\")",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\itemListService.server.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\posQueueService.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\hooks\\trade\\useTradeSession.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\hooks\\trade\\useTradeSession.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\offlineDbService.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\pricechartingCsvService.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\itemListService.server.ts)",
+        "command(Get-ChildItem -Path \"C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\" -Filter \"*gemini*\" -Recurse | Select-Object FullName)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\geminiService.server.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\scratch\\active_learning_loop.ts)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\package.json)",
+        "command(npm run archivist:active-loop)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\pHashCacheService.ts)",
+        "read_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\public\\control_group\\yugioh_ash_blossom.jpg)",
+        "write_file(C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\scratch\\query_db.ts)",
+        "command(npx tsx scratch/query_db.ts)",
+        "command(npm run build)",
+        "command(git add package.json releases/sync_agent.exe src/hooks/trade/useTradeSession.ts src/services/gemini/prompts_extensions.json src/services/itemListService.server.ts src/services/offlineDbService.ts src/services/posQueueService.ts src/services/pricechartingCsvService.ts scratch/active_learning_loop.ts scratch/anarchist_ball.ts)"
+      ]
+    },
+    "remoteControlHostname": "tyler-galactic-wave",
+    "themeMode": "THEME_MODE_DARK"
+  }
+}

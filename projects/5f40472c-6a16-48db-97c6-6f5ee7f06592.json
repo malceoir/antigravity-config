@@ -1,0 +1,17 @@
+{
+  "id": "5f40472c-6a16-48db-97c6-6f5ee7f06592",
+  "name": "busy-euclid",
+  "projectResources": {
+    "resources": [
+      {
+        "gitFolder": {
+          "folderUri": "file:///c%3A/Users/tyler%20lauzon/Documents/antigravity/busy-euclid",
+          "defaultBranch": "master"
+        }
+      }
+    ]
+  },
+  "settings": {},
+  "updatedAt": "2026-08-05T04:10:01.094682900Z",
+  "isWorkspaceOnly": false
+}

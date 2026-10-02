@@ -1,0 +1,14 @@
+{
+  "name": "Prism System Governance Hooks",
+  "version": "1.0.0",
+  "hooks": {
+    "pre_execution_foresight": {
+      "description": "Aether Real-Time Foresight Protocol (Anticipates AI shortcuts before execution)",
+      "command": "node \"C:\\Users\\tyler lauzon\\.gemini\\config\\scripts\\aether_foresight.js\""
+    },
+    "post_execution_audit": {
+      "description": "Absolution Gatekeeper Audit (Interrogates diffs and enforces zero-bandaid decrees)",
+      "command": "node \"C:\\Users\\tyler lauzon\\.gemini\\config\\scripts\\log_absolution_decree.js\""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "8179e2cc-854f-407b-b623-b11620c24027",
+  "name": "Price Point",
+  "projectResources": {
+    "resources": [
+      {
+        "gitFolder": {
+          "folderUri": "file:///c%3A/Users/tyler%20lauzon/OneDrive/Desktop/Price%20Point",
+          "defaultBranch": "main"
+        }
+      }
+    ]
+  },
+  "settings": {
+    "fileAccessPolicy": "AGENT_SETTING_POLICY_ALLOW",
+    "autoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_EAGER",
+    "artifactReviewMode": "ARTIFACT_REVIEW_MODE_TURBO"
+  },
+  "updatedAt": "2026-07-18T23:48:01.629078100Z"
+}

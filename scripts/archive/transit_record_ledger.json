@@ -1,0 +1,29 @@
+{
+  "secret-trap-test-007": {
+    "transitId": "secret-trap-test-007",
+    "createdAt": "2026-08-28T22:56:14.657Z",
+    "status": "EMERGENCY_PRISM_INTERVENTION_REQUIRED",
+    "archivistWatching": true,
+    "initialCard": {
+      "Cardname": "Library of Leng",
+      "Set": "Revised Edition",
+      "Setnumber": "261",
+      "Tcg": "magic"
+    },
+    "validatedCard": {
+      "tcgplayerId": 551,
+      "set": "4th Edition",
+      "setNumber": "551",
+      "urls": {
+        "tcgplayerUrl": "https://www.tcgplayer.com/product/551"
+      },
+      "validationGate": {
+        "status": "PASSED",
+        "setMatched": true,
+        "setNumberMatched": true
+      }
+    },
+    "archivistAuditVerdict": "FATAL_LOGIC_FLAW_DETECTED",
+    "lastUpdated": "2026-08-28T22:56:14.743Z"
+  }
+}

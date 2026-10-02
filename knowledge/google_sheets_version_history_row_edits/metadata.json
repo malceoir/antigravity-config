@@ -1,0 +1,23 @@
+{
+  "title": "Google Sheets Version History Row Edits Master Audit (August 27 to July 10, 2026)",
+  "summary": "Complete, empirical video frame analysis and row edit accounting across 76 Version History click sessions covering August 27 down to July 10, 2026. Includes deduplication methodology, gross vs net metrics, frame extractor scripts, and exact per-timestamp row bounds.",
+  "created_at": "2026-09-01T13:08:00-07:00",
+  "updated_at": "2026-09-01T13:08:00-07:00",
+  "tags": [
+    "google-sheets",
+    "version-history",
+    "row-edits",
+    "audit",
+    "video-frame-analysis",
+    "master-ledger"
+  ],
+  "references": [
+    "Videos/trim1.mp4",
+    "Videos/trim2.mp4",
+    "Videos/trim3.mp4",
+    "Videos/Recording 2026-09-01 101547.mp4",
+    "Videos/Recording 2026-09-01 050645.mp4",
+    "Downloads/1.mp4",
+    "Downloads/Mobile Devices/1000014215.mp4"
+  ]
+}

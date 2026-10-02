@@ -1,0 +1,18 @@
+{
+  "id": "4f1b4ac6-1121-4035-a547-6c6a245c4d3c",
+  "name": ".gemini",
+  "projectResources": {
+    "resources": [
+      {
+        "folderUri": "file:///c%3A/Users/tyler%20lauzon/.gemini"
+      }
+    ]
+  },
+  "settings": {
+    "fileAccessPolicy": "AGENT_SETTING_POLICY_ASK",
+    "internetPolicy": "AGENT_SETTING_POLICY_ASK",
+    "autoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_OFF",
+    "artifactReviewMode": "ARTIFACT_REVIEW_MODE_ALWAYS"
+  },
+  "updatedAt": "2026-07-19T00:56:57.350737300Z"
+}

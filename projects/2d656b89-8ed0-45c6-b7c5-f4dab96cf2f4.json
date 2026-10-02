@@ -1,0 +1,17 @@
+{
+  "id": "2d656b89-8ed0-45c6-b7c5-f4dab96cf2f4",
+  "name": "StockroomApp",
+  "projectResources": {
+    "resources": [
+      {
+        "gitFolder": {
+          "folderUri": "file:///c%3A/Users/tyler%20lauzon/OneDrive/Desktop/StockroomApp",
+          "defaultBranch": "main"
+        }
+      }
+    ]
+  },
+  "settings": {},
+  "updatedAt": "2026-08-19T10:05:58.136584500Z",
+  "isWorkspaceOnly": false
+}

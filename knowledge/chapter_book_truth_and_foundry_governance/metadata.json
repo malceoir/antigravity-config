@@ -1,0 +1,26 @@
+{
+  "title": "Modular Chapter Book Truth, Archivist Genesis & Foundry Governance",
+  "summary": "Comprehensive handoff and architectural blueprint for transitioning PricePoint to the Modular Chapter Book Truth protocol. Details the role of The Archivist in drafting .truth/ chapters, FactoryLine (The Foundry) integration as the empirical proof layer, and full context from the multi-TCG pipeline verification.",
+  "createdAt": "2026-09-04T12:52:00.000Z",
+  "lastUpdated": "2026-09-04T12:52:00.000Z",
+  "version": "1.0.0",
+  "tags": [
+    "the-truth",
+    "chapter-book",
+    "archivist",
+    "foundry",
+    "factoryline",
+    "pricepoint",
+    "governance",
+    "tcg-pipeline"
+  ],
+  "references": [
+    "C:\\Users\\tyler lauzon\\.gemini\\config\\rules\\PROOF_FIRST_TESTING_PROTOCOL.md",
+    "C:\\Users\\tyler lauzon\\.gemini\\config\\skills\\factoryline-verifier\\SKILL.md",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\smoke\\core_smoke.json",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\pricechartingCsvService.ts",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\services\\ocrBypassService.ts",
+    "C:\\Users\\tyler lauzon\\.gemini\\config\\logs\\absolutions_decrees.log",
+    "C:\\Users\\tyler lauzon\\.gemini\\config\\logs\\prism_context_ledger.md"
+  ]
+}

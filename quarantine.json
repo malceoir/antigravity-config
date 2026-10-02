@@ -1,0 +1,22 @@
+{
+  "quarantinedAgents": {
+    "Worker-Alpha": {
+      "status": "QUARANTINED",
+      "reason": "Premature completion claim without verifying multi-TCG card number CSV index resolution and end-to-end empirical testing.",
+      "timestamp": "2026-08-29T00:49:52.593Z",
+      "temperatureLock": 0,
+      "databaseAccess": "REVOKED",
+      "repositoryAccess": "BLOCKED",
+      "contextWiped": true
+    },
+    "RestoreNewStoresAgent": {
+      "status": "QUARANTINED",
+      "reason": "Data Truncation Failure: Truncated 282 stockroom boxes down to 50 boxes without validation against The Truth invariant",
+      "timestamp": "2026-08-31T01:52:16.475Z",
+      "temperatureLock": 0,
+      "databaseAccess": "REVOKED",
+      "repositoryAccess": "BLOCKED",
+      "contextWiped": true
+    }
+  }
+}

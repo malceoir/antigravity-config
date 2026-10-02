@@ -1,0 +1,25 @@
+{
+  "title": "Switch 2 Optics Tuning, Hands-Free Auto-Capture & Workspace Hygiene",
+  "summary": "Records the complete architectural pattern for WebRTC canvas filter syncing (defeating sleeve/holo glare via CameraOpticsModal and useOcrScanner), hands-free stability auto-capture, MCP ghost path recovery in mcp_config.json, and repository media bloat reclamation from 2.5 GB down to 960 MB.",
+  "createdAt": "2026-09-05T23:21:00.000Z",
+  "lastUpdated": "2026-09-05T23:21:00.000Z",
+  "version": "1.0.0",
+  "tags": [
+    "switch2-camera",
+    "anti-glare",
+    "camera-optics",
+    "auto-capture",
+    "canvas-filter",
+    "mcp-config",
+    "repo-hygiene",
+    "pricepoint"
+  ],
+  "references": [
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\components\\features\\scan\\components\\CameraOpticsModal.tsx",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\components\\features\\scan\\components\\CameraHUDControls.tsx",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\components\\features\\scan\\ScannerArea.tsx",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\src\\hooks\\camera\\useOcrScanner.ts",
+    "C:\\Users\\tyler lauzon\\.gemini\\config\\mcp_config.json",
+    "C:\\Users\\tyler lauzon\\OneDrive\\Desktop\\Price Point\\README.md"
+  ]
+}
